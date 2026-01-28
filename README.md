@@ -106,10 +106,10 @@ Logistics-Supply-Chain-Dashboard/
 ---
 
 ## 👤 Author
-**Neha Rashid Shaikh**  
-📍 Pune, Maharashtra, India  
+**Samala Akash**  
+📍 vadodara,gujarat, India  
 
-🔗 LinkedIn: https://linkedin.com/in/nehashaikh  
-💻 GitHub: https://github.com/nehashaikh  
+🔗 LinkedIn:www.linkedin.com/in/samalaakash4
+
 
 
